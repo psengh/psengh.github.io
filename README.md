@@ -54,8 +54,8 @@ Jan 2016 - Jun 2016
 
 #### Education:
 
-#####  B.Tech - CSE from Guru Nanak Institutions, Hyderabad 
-##### Aug 2012 - May 2016
+#####  B.Tech - CSE from Guru Nanak Institutions, Hyderabad\
+Aug 2012 - May 2016
 
 #### Achievements:
 
