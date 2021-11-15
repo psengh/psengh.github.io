@@ -20,7 +20,7 @@ JavaScript, Node.js, Express.js, React.js, Storybook.js, Vue.js, Angular.js, jQu
 #### Professional Experience:
 
 #####  Lead Software Engineer at SupplyCompass
-###### Apr 2020 - Till Date
+##### Apr 2020 - Till Date
 
 *   Led the front-end team to implement complex and innovative UX/UI from the Fashion Industry using React.js.
 *   Worked closely with CTO and contributed to the scaling platform from initial users to around 1500 clientele.
@@ -29,7 +29,7 @@ JavaScript, Node.js, Express.js, React.js, Storybook.js, Vue.js, Angular.js, jQu
 *   Built a Reusable UI Component Library using Storybook,js and React.js which saves around 35% of development hours and keeps the UI consistent across multiple products.
 
 #####  Software Development Engineer II at Param.ai 
-###### Sept 2018 - Jan 2020
+##### Sept 2018 - Jan 2020
 
 *   Developed a Form builder and Renderer using Vue.js to collect data from Candidates, which was responsible for 80% of the Candidate profile sourcing on the platform.
 *   Has broken down a monolithic code structure in Vue.js, SemanticUI to modular and reusable components.
@@ -38,7 +38,7 @@ JavaScript, Node.js, Express.js, React.js, Storybook.js, Vue.js, Angular.js, jQu
 *   Integrated Candidate sourcing APIs from leading Job Platforms like LinkedIn, Naukri, Monster etc, which saved manual effort and time of both, Candidates and Recruiters.
 
 #####  Member of Technical Staff at RapidBizApps (GroundHog) 
-###### July 2016 - July 2018
+##### July 2016 - July 2018
 
 *   Built data collection applications with Offline first approach for Mining Industry using Node.js, Express.js and Couchbase, has saved a lot of paper.
 *   Worked with Project Managers and Business Analysts to curate and refine technical requirements for developing prototypes/new projects.
@@ -47,7 +47,7 @@ JavaScript, Node.js, Express.js, React.js, Storybook.js, Vue.js, Angular.js, jQu
 *   Developed a Task scheduling system which was integrated with Third Party Calendars.
 
 #####  Intern at RapidBizApps (GroundHog)
-###### Jan 2016 - Jun 2016
+##### Jan 2016 - Jun 2016
 
 *   Developed a web based form builder using Angular.js.
 *   Learned to integrate AWS services and developed helper APIs for listing active S3 buckets and EC2 Instances.
@@ -55,7 +55,7 @@ JavaScript, Node.js, Express.js, React.js, Storybook.js, Vue.js, Angular.js, jQu
 #### Education:
 
 #####  B.Tech - CSE from Guru Nanak Institutions, Hyderabad 
-###### Aug 2012 - May 2016
+##### Aug 2012 - May 2016
 
 #### Achievements:
 
