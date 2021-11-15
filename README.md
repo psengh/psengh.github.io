@@ -1,7 +1,11 @@
 Sardar Prabjot Singh
 ====================
 
-prabjotsingh50@gmail.com | +91 8801409149 | linkedin.com/in/psengh | github.com/psengh
+Email: prabjotsingh50@gmail.com
+Phone: +91 8801409149
+LinkedIn: [linkedin.com/in/psengh](https://linkedin.com/in/psengh)
+Github: [github.com/psengh](https://github.com/psengh)
+Website: [psengh.github.io/](https://psengh.github.io/) 
 
 * * *
 
@@ -15,7 +19,7 @@ JavaScript, Node.js, Express.js, React.js, Storybook.js, Vue.js, Angular.js, jQu
 
 #### Professional Experience:
 
-#####  Lead Software Engineer at SupplyCompass.com
+#####  Lead Software Engineer at SupplyCompass
 ###### Apr 2020 - Till Date
 
 *   Led the front-end team to implement complex and innovative UX/UI from the Fashion Industry using React.js.
@@ -33,7 +37,7 @@ JavaScript, Node.js, Express.js, React.js, Storybook.js, Vue.js, Angular.js, jQu
 *   Developed front-end for multiple AI services \- Prescreening Chat Bot, Hiring Pattern Generator, and Candidate Recommendation Engine.
 *   Integrated Candidate sourcing APIs from leading Job Platforms like LinkedIn, Naukri, Monster etc, which saved manual effort and time of both, Candidates and Recruiters.
 
-#####  Member of Technical Staff at RapidBizApps (GroundHog.com) 
+#####  Member of Technical Staff at RapidBizApps (GroundHog) 
 ###### July 2016 - July 2018
 
 *   Built data collection applications with Offline first approach for Mining Industry using Node.js, Express.js and Couchbase, has saved a lot of paper.
@@ -42,7 +46,7 @@ JavaScript, Node.js, Express.js, React.js, Storybook.js, Vue.js, Angular.js, jQu
 *   Has set up a CI/CD infrastructure using AWS Codepipeline, Jenkins, Chef and GitHub, it saved around 40% of deployment time.
 *   Developed a Task scheduling system which was integrated with Third Party Calendars.
 
-#####  Intern at RapidBizApps (GroundHog.com)
+#####  Intern at RapidBizApps (GroundHog)
 ###### Jan 2016 - Jun 2016
 
 *   Developed a web based form builder using Angular.js.
